@@ -1,0 +1,53 @@
+{
+  "SYSBENCH_LINKS": {
+    "Sysbench regression test results": "https://benchmark.mariadb.net"
+  },
+  "HAMMERDB_LINKS": {
+    "Daily HammerDB Regression Run": "https://hammerdb-ci.mariadb.net",
+    "Q4-2025 HammerDB Data": "https://docs.google.com/spreadsheets/d/119SqDxw_b6usXEb-_soDKyyx8XmtKUaXRISNtEJYIOo/edit?gid=1805475498#gid=1805475498",
+    "Q1-2026 HammerDB Data": "https://docs.google.com/spreadsheets/d/11EfNr6HbXwOyAdbShIQ74R1u5fCoQAiubHnmEd_7_NI/edit?gid=712456276#gid=712456276",
+    "Q2-2026 HammerDB Data": "https://docs.google.com/spreadsheets/d/18vt_rtwlScOmERAZ_6sNCVn7h3QKQsFJ-qEVHMSHNEI/edit?gid=712456276#gid=712456276"
+  },
+  "MACHINE_DETAILS": {
+    "AMD": {
+      "Server Name": "Hetzner Server / h-perf-01",
+      "Architecture": "Zen 4 / EPYC 9004 Series",
+      "CPU Model": "AMD EPYC 9454P 48-Core Processor",
+      "System Type":"GENOAD12M3-2Q/H",
+      "Socket": "1",
+      "Core(s) Per Socket": "48",
+      "Thread(s) Per Socket": "2",
+      "Online CPU": "96",
+      "RAM": "256 GB (32 × 8) DDR5 - 4800 MT/s",
+      "OS": "Ubuntu 24.04.4 LTS (Noble Numbat)",
+      "Kernel": "6.8.0-124-generic",
+      "microcode": "0xa101148",
+      "Storage": "NVMe PCIe Gen 4 SAMSUNG MZQL21T9HCJR-00A07 (1788 GB); SAMSUNG MZQL21T9HCJR-00A07 (1788 GB); SAMSUNG MZQL2960HCJR-00A07 (894 GB); SAMSUNG MZQL2960HCJR-00A07 (894 GB)",
+      "BIOS": "2.01.HZ06",
+      "NUMA NODE": "1",
+      "CPU max MHz": "3810.791",
+      "CPU min MHz": "1500",
+      "Compiler": "GCC-13.3.0"
+    },
+    "INTEL": {
+      "Server Name": "Hetzner Server / h-perf-03",
+      "Architecture": "Sapphire Rapids / 4th Gen Xeon",
+      "CPU Model": "Intel(R) Xeon(R) Gold 5412U",
+      "System Type": "SPC741D8UD-2T/X550/H",
+      "Socket": "1",
+      "Core(s) Per Socket": "24",
+      "Thread(s) Per Socket": "2",
+      "Online CPU": "48",
+      "RAM": "128 GB (32 × 4) DDR5 - 4400 MT/s",
+      "OS": "Ubuntu 24.04.4 LTS (Noble Numbat)",
+      "Kernel": "6.8.0-124-generic",
+      "microcode": "0x2b000661",
+      "Storage": "NVMe PCIe Gen 4 INTEL SSDPF2KX076TZ (7154 GB); KIOXIA KCD71RUG3T84 (3577 GB); KIOXIA KCD71RUG3T84 (3577 GB); SAMSUNG MZQL27T6HBLA-00A07 (7154 GB)",
+      "BIOS": "11.01.HZ03",
+      "NUMA NODE": "1",
+      "CPU max MHz": "3900",
+      "CPU min MHz": "800",
+      "Compiler": "GCC-13.3.0"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "Enterprise Server": {
+        "Sysbench": {
+            "Q3-2025": "https://docs.google.com/spreadsheets/d/YOUR_ES_SYSBENCH_Q3_2025_ID/edit?usp=sharing"
+        },
+        "HammerDB": {
+            "Q4-2025": "https://docs.google.com/spreadsheets/d/1Xyf--4hzPTCmBWoC7CS3VIaw0UY6nGUhJ00f9CJTL68/edit?gid=1662061867#gid=1662061867",
+            "Q1-2026": "https://docs.google.com/spreadsheets/d/1sXOZSp9jPrW3z2TDlqWmmbkt0IU5OtIuvFJdOYGwaIo/edit?gid=1662061867#gid=1662061867",
+            "Q2-2026": "https://docs.google.com/spreadsheets/d/1ocrQKwQw9CERcWves-KGf4N39xvjaQFNTuEYMGN-abY/edit?gid=1264214521#gid=1264214521"
+        }
+    },
+    "Community Server": {
+        "Sysbench": {
+            "Q3-2025": "https://docs.google.com/spreadsheets/d/YOUR_CS_SYSBENCH_Q3_2025_ID/edit?usp=sharing"
+        },
+        "HammerDB": {
+            "Q4-2025": "https://docs.google.com/spreadsheets/d/1Xyf--4hzPTCmBWoC7CS3VIaw0UY6nGUhJ00f9CJTL68/edit?gid=1662061867#gid=1662061867"
+        }
+    }
+}
